@@ -18,3 +18,7 @@ Tienda creada con fines educativos
 4.- Correr servidor en desarollo
 
 `npm run watch:dev`
+
+5.- Entrar al navegador y escribir
+
+`http://localhost:3000/`
